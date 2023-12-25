@@ -113,7 +113,7 @@ void deleteNode(int index){
                       itemBuilder: (context,index){
                         return  Card(
                           margin: const EdgeInsets.only(bottom: 20),
-                          color: Colors.lightBlue.shade50,
+                          color: Colors.brown.shade50,
                           elevation: 3,
                           shape: RoundedRectangleBorder(
                               borderRadius:BorderRadius.circular(10)),
